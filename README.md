@@ -1,5 +1,3 @@
-Deformable-Cable-Casting
-
 
 ## Introduction
 강체로 이루어진 로봇의 작업 공간을 확장하기 위하여, 6축 로봇 매니퓰레이터 끝단에 1차원 가변형 물체인 케이블을 부착
