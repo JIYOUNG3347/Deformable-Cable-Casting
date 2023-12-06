@@ -1,4 +1,4 @@
-# Deformable-Cable-Casting
+Deformable-Cable-Casting
 
 
 ## Introduction
@@ -7,3 +7,10 @@
 
 
 ## Framework
+![Untitled(1)](https://github.com/JIYOUNG3347/Deformable-Cable-Casting/assets/77952928/da620ffc-169f-48eb-877b-1b4069406739)
+
+## Result
+![그림3](https://github.com/JIYOUNG3347/Deformable-Cable-Casting/assets/77952928/04e01f30-f6fb-4d4b-9dcd-8450d0ad2476)
+
+## Paper
+https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11480385
