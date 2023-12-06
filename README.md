@@ -10,5 +10,9 @@
 ## Result
 ![그림3](https://github.com/JIYOUNG3347/Deformable-Cable-Casting/assets/77952928/04e01f30-f6fb-4d4b-9dcd-8450d0ad2476)
 
+## Simulation Result
+![제목 없는 동영상 - Clipchamp로 제작 (1)](https://github.com/JIYOUNG3347/Deformable-Cable-Casting/assets/77952928/425d9ccf-621f-4fcf-b575-6019d7ed8de4)
+
+
 ## Paper
 https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11480385
